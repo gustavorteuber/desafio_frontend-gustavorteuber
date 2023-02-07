@@ -8,6 +8,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Como iniciar: 
 
+git clone https://github.com/gustavorteuber/desafio_frontend-gustavorteuber.git
+
+cd desafio_frontend_gustavorteuber
+
 npm i
 
 npm run dev
